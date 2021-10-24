@@ -1,38 +1,74 @@
 .App {
-  text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(231, 183, 150);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cont{
+  border: 3px solid rgb(128, 128, 128);
+  background-color: rgb(228, 253, 236);
+  padding: 10px;
+  border-radius: 6px;
+  min-width: 300px;
+}
+
+.header {
+  border: 2px solid white;
+  font-size: calc(5px + 2vmin);
+  margin: 0px;
+}
+
+.header p {
+  background-color: beige;
+  font-weight: 600;
+  font-variant: all-small-caps;
+  margin: 0px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+.drop {
+  margin: 10px 0px;
+  text-align: end;
+}
+
+.drop label {
+  font-variant: all-small-caps;
+  font-weight: 600;
+}
+
+.search {
+  padding: 10px;
+  height: 40px;
+  width: -webkit-fill-available;
+  margin: 10px 0px;
+}
+
+.searched {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+
+.searched button {
+  border: 2px solid rgb(15, 209, 235);
+  border-radius: 10px;
+  background-color: white;
+}
+
+.searched button:hover {
+  background-color: rgb(152, 227, 250);
+  cursor: cell;
 }
