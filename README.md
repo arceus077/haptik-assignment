@@ -32,9 +32,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 Note:
 
 This assignment save its state in runtime, so on every refresh all data will be discarded.
+
 1 Friends can be searched with their name, if they are not already friends we can add them.
+
 2 A valid name consists of only alphabets with not more than 3 words.
+
 3 Data can be sorted based on favourites and name.
+
 4 Pagination is included in this assignment.
 
 That's all for now, Thanks! cheers
