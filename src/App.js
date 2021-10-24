@@ -152,7 +152,7 @@ function App() {
     return (
       searchedFriends.map((f, i) => {
         return (
-          <div>
+          <div key={i}>
             <div key={i} className="searched">
             <div style={{ paddingLeft: '4px' }}>
               <span style={{ fontSize: '25px', fontWeight: '700px', fontFamily: 'monospace' }}>
@@ -243,7 +243,7 @@ function App() {
           </div>
           <div style={{ border: '2px solid bule' }}>
             <div className='drop'>
-              <label for="sort-select">Sort By: </label>
+              <label htmlFor="sort-select">Sort By: </label>
               <select
                 name="sort"
                 id="sort-select"
@@ -265,7 +265,7 @@ function App() {
             {
               display ? friends.slice(offset, offset + limit).map((f, i) => {
                 return (
-                  <div>
+                  <div key={i}>
                     <div key={i} className="searched">
                     <div style={{ paddingLeft: '4px' }}>
                     <span style={{ fontSize: '25px', fontWeight: '700px', fontFamily: 'monospace' }}>
