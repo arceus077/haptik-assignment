@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/haptik_assignment/static/css/main.7a35cd9b.chunk.css",
-    "main.js": "/haptik_assignment/static/js/main.8f39b89d.chunk.js",
-    "main.js.map": "/haptik_assignment/static/js/main.8f39b89d.chunk.js.map",
+    "main.css": "/haptik_assignment/static/css/main.1e3de5e0.chunk.css",
+    "main.js": "/haptik_assignment/static/js/main.f946a2be.chunk.js",
+    "main.js.map": "/haptik_assignment/static/js/main.f946a2be.chunk.js.map",
     "runtime-main.js": "/haptik_assignment/static/js/runtime-main.7a2ce54b.js",
     "runtime-main.js.map": "/haptik_assignment/static/js/runtime-main.7a2ce54b.js.map",
     "static/js/2.e4ab0336.chunk.js": "/haptik_assignment/static/js/2.e4ab0336.chunk.js",
@@ -10,18 +10,18 @@
     "static/js/3.79d0234d.chunk.js": "/haptik_assignment/static/js/3.79d0234d.chunk.js",
     "static/js/3.79d0234d.chunk.js.map": "/haptik_assignment/static/js/3.79d0234d.chunk.js.map",
     "index.html": "/haptik_assignment/index.html",
-    "static/css/main.7a35cd9b.chunk.css.map": "/haptik_assignment/static/css/main.7a35cd9b.chunk.css.map",
+    "static/css/main.1e3de5e0.chunk.css.map": "/haptik_assignment/static/css/main.1e3de5e0.chunk.css.map",
     "static/js/2.e4ab0336.chunk.js.LICENSE.txt": "/haptik_assignment/static/js/2.e4ab0336.chunk.js.LICENSE.txt",
-    "static/media/delete.5a6e1283.svg": "/haptik_assignment/static/media/delete.5a6e1283.svg",
-    "static/media/favfalse.c94695f1.svg": "/haptik_assignment/static/media/favfalse.c94695f1.svg",
-    "static/media/favtrue.9671af64.svg": "/haptik_assignment/static/media/favtrue.9671af64.svg",
-    "static/media/leftarrow.57a75a06.svg": "/haptik_assignment/static/media/leftarrow.57a75a06.svg",
-    "static/media/rightarrow.395b7772.svg": "/haptik_assignment/static/media/rightarrow.395b7772.svg"
+    "static/media/delete.13954a2c.svg": "/haptik_assignment/static/media/delete.13954a2c.svg",
+    "static/media/favfalse.039b6ba5.svg": "/haptik_assignment/static/media/favfalse.039b6ba5.svg",
+    "static/media/favtrue.2b4b73ad.svg": "/haptik_assignment/static/media/favtrue.2b4b73ad.svg",
+    "static/media/leftarrow.8638bb38.svg": "/haptik_assignment/static/media/leftarrow.8638bb38.svg",
+    "static/media/rightarrow.3c15120b.svg": "/haptik_assignment/static/media/rightarrow.3c15120b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a2ce54b.js",
     "static/js/2.e4ab0336.chunk.js",
-    "static/css/main.7a35cd9b.chunk.css",
-    "static/js/main.8f39b89d.chunk.js"
+    "static/css/main.1e3de5e0.chunk.css",
+    "static/js/main.f946a2be.chunk.js"
   ]
 }
