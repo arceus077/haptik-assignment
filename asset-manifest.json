@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/haptik_assignment/static/css/main.7a35cd9b.chunk.css",
-    "main.js": "/haptik_assignment/static/js/main.af103ad8.chunk.js",
-    "main.js.map": "/haptik_assignment/static/js/main.af103ad8.chunk.js.map",
+    "main.js": "/haptik_assignment/static/js/main.8f39b89d.chunk.js",
+    "main.js.map": "/haptik_assignment/static/js/main.8f39b89d.chunk.js.map",
     "runtime-main.js": "/haptik_assignment/static/js/runtime-main.7a2ce54b.js",
     "runtime-main.js.map": "/haptik_assignment/static/js/runtime-main.7a2ce54b.js.map",
     "static/js/2.e4ab0336.chunk.js": "/haptik_assignment/static/js/2.e4ab0336.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.7a2ce54b.js",
     "static/js/2.e4ab0336.chunk.js",
     "static/css/main.7a35cd9b.chunk.css",
-    "static/js/main.af103ad8.chunk.js"
+    "static/js/main.8f39b89d.chunk.js"
   ]
 }
